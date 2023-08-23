@@ -1,6 +1,6 @@
 <a align="left" href="https://github.com/Openscapes/2023-fred-hutch"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"/></a>
 
-# 2023 FRED HUTCH
+# 2023 FRED HUTCH Openscapes Champions Cohort
 
 Welcome to the 2023 FRED HUTCH Cohort! This is a Cohort for the [Fred Hutchinson Cancer Center Data Science Laboratory](https://hutchdatascience.org/). Learn more about Openscapes and the Champions Program: <https://openscapes.org>.
 
