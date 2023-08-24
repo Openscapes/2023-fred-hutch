@@ -14,7 +14,7 @@ We will meet as a Cohort remotely five times over two months for 1.5 hours each:
 -   **Times:** 10:00 - 11:30 am PT
 -   **Location:** remotely, links shared in calendar invites
 
-Agendas are accessible to Cohort participants in our Shared Cohort Folder [link upcoming]; they are also an archive of our live notes. 
+Agendas are accessible to Cohort participants in our [Shared Cohort Google Folder](https://drive.google.com/drive/folders/1i-ZZRMvEHDwQ5vJZpX_P4ycqOTwAKnyM?usp=drive_link); they are also an archive of our live notes. 
 
 | Date | Cohort Call Topics          | Series Chapters |      Seaside Chat Topics |
 |:----|:------------------|:----------------------|:--------------------------------|
