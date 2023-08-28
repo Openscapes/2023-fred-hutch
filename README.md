@@ -34,7 +34,14 @@ Co-working sessions are where we work at the same time together. Sometimes, this
 
 ## Participating teams
 
-Some brief information about participating teams. Please add any edits directly (we'll learn how in our GitHub Clinic!)
+Please add any edits directly (we'll learn how in our GitHub Clinic!)
+
+[Alice Berger Lab](https://research.fredhutch.org/berger/en.html)
+
+[Gavin Ha Lab](https://gavinhalab.org/)
+
+[Manu Setty Lab](https://research.fredhutch.org/setty/en.html)
+
 
 ## Openscapes Team
 
