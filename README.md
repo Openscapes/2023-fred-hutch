@@ -53,6 +53,8 @@ Please add any edits directly (we'll learn how in our GitHub Clinic!)
 
 **Monica Gerber**, (@monicagerber), Fred Hutch
 
+**Liz Neeley** (@lizneeley), Liminal Creations
+
 <!--- $$TODO: Add Planning Google Folder$$ [Planning Google Folder]() --->
 
 ## More about Openscapes and the Champions program:
