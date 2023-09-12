@@ -23,9 +23,9 @@ We can make words **bold** or *italic*.
 ### We can make headers.
 ### Test new header and list
 
-A. yellow
-B. green
-C. blue
+1. yellow
+2. green
+3. blue
 
 We can make lists – *note that lists need a carriage return before list items!*
 
