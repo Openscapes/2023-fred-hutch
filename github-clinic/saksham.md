@@ -21,7 +21,7 @@ This file is written in **Markdown**, which formats text on the web. For example
 We can make words **bold** or *italic*.
 
 ### We can make headers.
-
+### A Header
 We can make lists – *note that lists need a carriage return before list items!*
 
 1. bananas
