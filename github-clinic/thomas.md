@@ -1,5 +1,9 @@
 # GitHub practice from the browser
 
+I enjoy github, and have a few repositories [here](https://github.com/tpersse)
+
+I need to work more on my commits, though... seems my messages can be less than ideal at times, and I have all sorts of issues with being behind/ahead of my main branch when trying to push/pull etc. Hoping we can learn more about this today!
+
 Working on GitHub.com, we contribute changes through **commits**. You'll practice creating several commits by making small edits to a file, writing commit messages, and committing changes to see them posted nicely online to communicate our work. You'll practice with the file with your name on it; everyone has their own file to practice with. 
 
 ## Task 1: Commit an edit from the browser
@@ -27,6 +31,8 @@ We can make lists – *note that lists need a carriage return before list items!
 1. bananas
 2. tamales
 3. cakes
+
+
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
