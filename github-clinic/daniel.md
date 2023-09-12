@@ -6,7 +6,7 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 
 Let's edit this file by clicking the pencil icon at the top-right of the file. 
 
-Next, make and edit to the text in this file. One idea is to fix this tpyo. 
+Next, make and edit to the text in this file. One idea is to fix this typo. 
 
 Finally, we will commit these edits to GitHub. To do this, scroll down to the bottom of this webpage to where it says "Commit Changes". Committing changes has two steps: write a human-readable commit message, and press the green button to commit changes. 
 
@@ -42,3 +42,16 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
+
+### Test header
+## Test sub-header
+*Daniel's repository*
+*2023*
+
+I'm going to make a list of my favorite Cuban foods.
+- Arroz con pollo
+- Palomilla sandwich
+- Ropa vieja
+
+I'm going to include some microscopy that I did recently on an Evos.
+![WT-TC-AARS-1](https://github.com/Openscapes/2023-fred-hutch/assets/95438884/a48eee12-1a91-40bd-b940-9ee16adc46b1)
