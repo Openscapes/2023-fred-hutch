@@ -18,7 +18,7 @@ Now let's practice Markdown and commit another edit to this file.
 
 This file is written in Markdown, which formats text on the web. For example, with Markdown:
 
-We can make words **bold** or *italic*.
+We can make words **bold** or *italic*.  
 Test **bold** and *italic* 
 
 ### We can make headers.
