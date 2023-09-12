@@ -45,6 +45,7 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 
 ### Test header
 ## Test sub-header
+# Test sub-sub-header?
 *Daniel's repository*
 *2023*
 
@@ -55,6 +56,3 @@ I'm going to make a list of my favorite Cuban foods.
 
 I'm going to include some microscopy that I did recently on an Evos.
 ![WT-TC-AARS-1](https://github.com/Openscapes/2023-fred-hutch/assets/95438884/a48eee12-1a91-40bd-b940-9ee16adc46b1)
-
-Now, I'm going to size it down.
-![WT-TC-AARS-1](https://github.com/Openscapes/2023-fred-hutch/assets/95438884/a48eee12-1a91-40bd-b940-9ee16adc46b1) | width=100
