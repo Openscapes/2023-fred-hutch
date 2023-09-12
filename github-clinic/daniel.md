@@ -55,3 +55,6 @@ I'm going to make a list of my favorite Cuban foods.
 
 I'm going to include some microscopy that I did recently on an Evos.
 ![WT-TC-AARS-1](https://github.com/Openscapes/2023-fred-hutch/assets/95438884/a48eee12-1a91-40bd-b940-9ee16adc46b1)
+
+Now, I'm going to size it down.
+![WT-TC-AARS-1](https://github.com/Openscapes/2023-fred-hutch/assets/95438884/a48eee12-1a91-40bd-b940-9ee16adc46b1) | width=100
